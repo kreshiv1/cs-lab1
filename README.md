@@ -1,26 +1,26 @@
 # cs-lab1
 lab report 1..
-![Image](CD1.png)
+![Image](CD1.jpg)
 /workspaces/kreshivc.github.io
 directorty not specified so command didnt change
 no error
-![Image](CD2.png)
+![Image](CD2.jpg)
 ~
 no error
 changed directory to lecture1
-![Image](CD3.png)
+![Image](CD3.jpg)
 /workspaces/kreshivc.github.io
 did not change directory
 no error
-![Image](LS1.png)
+![Image](LS1.jpg)
 /workspaces/kreshivc.github.io
 made list
 no error
-![Image](LS2.png)
+![Image](LS2.jpg)
 /workspaces/kreshivc.github.io
 list of files in lecture 1
 no error
-![Image](LS3.png)
+![Image](LS3.jpg)
 just gave name of file
 no erorr
 
