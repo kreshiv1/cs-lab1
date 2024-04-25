@@ -1,38 +1,43 @@
 # cs-lab1
 lab report 1..
+
+
 ![Image](CD1.jpg)
-/workspaces/kreshivc.github.io
-directorty not specified so command didnt change
-no error
+changed directory to home
+
+
 ![Image](CD2.jpg)
-~
 no error
 changed directory to lecture1
-![Image](CD3.jpg)
-/workspaces/kreshivc.github.io
-did not change directory
-no error
-![Image](LS1.jpg)
-/workspaces/kreshivc.github.io
-made list
-no error
-![Image](LS2.jpg)
-/workspaces/kreshivc.github.io
-list of files in lecture 1
-no error
-![Image](LS3.jpg)
-just gave name of file
-no erorr
 
+
+![Image](CD3.jpg)
+error message because `cd` cannot change directory to a file
+
+
+![Image](LS1.jpg)
+listed all files in home directory
+
+
+![Image](LS2.jpg)
+showed list of files in lecture 1
+no error
+
+
+![Image](LS3.jpg)
+error because `ls` cannot list file of a file
 /workspaces/kreshivc.github.io
+
+
 ![Image](cat1.png)
 no output
 no error
-/workspaces/kreshivc.github.io
+
+
 ![Image](cat2.png)
-/workspaces/kreshivc.github.io
-error was given
+error was given as `cat` cannot print items of a directory
+
+
 ![Image](cat3.png)
-/workspaces/kreshivc.github.io
 lists contents of hello.java
 no error
